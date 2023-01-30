@@ -1,0 +1,6 @@
+[submodule "robotics"]
+	path = robotics
+	url = git@github.com:buzzysin/robotics
+[submodule "final-project"]
+	path = final-project
+	url = git@github.com:buzzysin/final-project
